@@ -1,3 +1,3 @@
 object Hello {
-  println("Helloworld")
+  println("hello world.")
 }
