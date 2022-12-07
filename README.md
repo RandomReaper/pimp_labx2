@@ -1,2 +1,5 @@
 # pimp_labx2
-Just a small git exercise
+
+Ce fichier a été édité sur github.   
+
+## Pourquoi git?
